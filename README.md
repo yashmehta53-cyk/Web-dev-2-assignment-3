@@ -57,5 +57,3 @@ src/
 - Update scores using input field and click **SAVE**
 - PASS if score ≥ 40  
 - FAIL if score < 40  
-
-## 📁 Folder Structure
